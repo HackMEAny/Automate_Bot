@@ -1,2 +1,3 @@
 # Automate_Bot
-* [QRCode generator](https://github.com/HackMEAny/Automate_Bot/tree/main/Text_to_QRCode)
+* [QRCode generator](Text_to_QRCode)
+* [Password Generator](Generate_Pass)

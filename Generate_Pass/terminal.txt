@@ -1,0 +1,5 @@
+12-character password is generated
+ >> unYZm?rvzn8a
+Add Descriptions
+Yahoo
+Description = Yahoo && Password = unYZm?rvzn8a
